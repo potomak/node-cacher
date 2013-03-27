@@ -19,7 +19,5 @@
   ],
   "author": "Addison Higham <addisonj@gmail.com> (github.com/addisonj)",
   "license": "BSD",
-  "dependencies": {
-    "memcached": "0.2.1"
-  }
+  "dependencies": {}
 }
